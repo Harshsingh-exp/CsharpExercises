@@ -1,0 +1,13 @@
+E:\HelloWorld\ConditionStmtns\bin\Debug\netcoreapp3.1\ConditionStmtns.exe
+E:\HelloWorld\ConditionStmtns\bin\Debug\netcoreapp3.1\ConditionStmtns.deps.json
+E:\HelloWorld\ConditionStmtns\bin\Debug\netcoreapp3.1\ConditionStmtns.runtimeconfig.json
+E:\HelloWorld\ConditionStmtns\bin\Debug\netcoreapp3.1\ConditionStmtns.runtimeconfig.dev.json
+E:\HelloWorld\ConditionStmtns\bin\Debug\netcoreapp3.1\ConditionStmtns.dll
+E:\HelloWorld\ConditionStmtns\bin\Debug\netcoreapp3.1\ConditionStmtns.pdb
+E:\HelloWorld\ConditionStmtns\obj\Debug\netcoreapp3.1\ConditionStmtns.csprojAssemblyReference.cache
+E:\HelloWorld\ConditionStmtns\obj\Debug\netcoreapp3.1\ConditionStmtns.csproj.CoreCompileInputs.cache
+E:\HelloWorld\ConditionStmtns\obj\Debug\netcoreapp3.1\ConditionStmtns.AssemblyInfoInputs.cache
+E:\HelloWorld\ConditionStmtns\obj\Debug\netcoreapp3.1\ConditionStmtns.AssemblyInfo.cs
+E:\HelloWorld\ConditionStmtns\obj\Debug\netcoreapp3.1\ConditionStmtns.dll
+E:\HelloWorld\ConditionStmtns\obj\Debug\netcoreapp3.1\ConditionStmtns.pdb
+E:\HelloWorld\ConditionStmtns\obj\Debug\netcoreapp3.1\ConditionStmtns.genruntimeconfig.cache
