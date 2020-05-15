@@ -1,0 +1,13 @@
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\bin\Debug\netcoreapp3.1\ArraysEx.exe
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\bin\Debug\netcoreapp3.1\ArraysEx.deps.json
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\bin\Debug\netcoreapp3.1\ArraysEx.runtimeconfig.json
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\bin\Debug\netcoreapp3.1\ArraysEx.runtimeconfig.dev.json
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\bin\Debug\netcoreapp3.1\ArraysEx.dll
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\bin\Debug\netcoreapp3.1\ArraysEx.pdb
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\obj\Debug\netcoreapp3.1\ArraysEx.csprojAssemblyReference.cache
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\obj\Debug\netcoreapp3.1\ArraysEx.csproj.CoreCompileInputs.cache
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\obj\Debug\netcoreapp3.1\ArraysEx.AssemblyInfoInputs.cache
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\obj\Debug\netcoreapp3.1\ArraysEx.AssemblyInfo.cs
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\obj\Debug\netcoreapp3.1\ArraysEx.dll
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\obj\Debug\netcoreapp3.1\ArraysEx.pdb
+E:\HelloWorld\Exercise2\Arrays\ArraysEx\obj\Debug\netcoreapp3.1\ArraysEx.genruntimeconfig.cache
